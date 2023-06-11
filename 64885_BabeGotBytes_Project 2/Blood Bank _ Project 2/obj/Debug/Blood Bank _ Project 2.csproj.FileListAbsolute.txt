@@ -1,0 +1,51 @@
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe.config
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.pdb
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.AssemblyReference.cache
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form1.resources
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form2.resources
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Properties.Resources.resources
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.GenerateResource.cache
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.CoreCompileInputs.cache
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.exe
+C:\Users\binir\source\repos\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.pdb
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe.config
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.pdb
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.AssemblyReference.cache
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form1.resources
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form2.resources
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Properties.Resources.resources
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.GenerateResource.cache
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.exe
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.pdb
+C:\Users\Almaty17\Desktop\Blood Bank _ Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form3.resources
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe.config
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.pdb
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form1.resources
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form2.resources
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form3.resources
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.exe
+C:\Users\ASUS\Desktop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.pdb
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe.config
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.exe
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\bin\Debug\Blood Bank _ Project 2.pdb
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.AssemblyReference.cache
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form1.resources
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form2.resources
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Form3.resources
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood_Bank___Project_2.Properties.Resources.resources
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.GenerateResource.cache
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.exe
+C:\Users\Almaty17\Desktop\oop\64885_BabeGotBytes_Project 2\Blood Bank _ Project 2\obj\Debug\Blood Bank _ Project 2.pdb
